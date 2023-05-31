@@ -1,17 +1,5 @@
 import java. util.Scanner;
 public class MaxMins {
-
-    public int min(int first, int second) {
-        int result = 0;
-        try {
-      
-        } catch (Exception e) {
-            // 예외 처리 코드
-        }
-        return result;
-    }
-
-
 public static void main(String[] args) {
     Scanner myObj = new Scanner(System.in);
 
