@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class re {
+public class pollsWithoutMethod2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
